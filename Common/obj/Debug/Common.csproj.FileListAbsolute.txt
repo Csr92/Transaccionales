@@ -1,0 +1,15 @@
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Common\bin\Debug\Common.dll
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Common\bin\Debug\Common.pdb
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Common\obj\Debug\Common.dll
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Common\obj\Debug\Common.pdb
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Common\bin\Debug\Common.dll
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Common\bin\Debug\Common.pdb
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Common\obj\Debug\Common.dll
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Common\obj\Debug\Common.pdb
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Common\bin\Debug\Common.dll
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Common\bin\Debug\Common.pdb
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Common\obj\Debug\Common.dll
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Common\obj\Debug\Common.pdb

@@ -1,0 +1,24 @@
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Data\bin\Debug\Data.dll
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Data\bin\Debug\Data.pdb
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Data\bin\Debug\Common.dll
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Data\bin\Debug\Common.pdb
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Data\obj\Debug\Data.dll
+C:\Users\CeSaR\source\repos\Sistemas transaccionales\Data\obj\Debug\Data.pdb
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Data\bin\Debug\Data.dll
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Data\bin\Debug\Data.pdb
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Data\bin\Debug\Common.dll
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Data\bin\Debug\Common.pdb
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Data\obj\Debug\Data.dll
+C:\Users\crodriguez\Downloads\Sistemas transaccionales\Data\obj\Debug\Data.pdb
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\bin\Debug\Data.dll
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\bin\Debug\Data.pdb
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\bin\Debug\Common.dll
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\bin\Debug\Common.pdb
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\obj\Debug\Data.dll
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\obj\Debug\Data.pdb

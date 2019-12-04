@@ -1,0 +1,8 @@
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\bin\Release\Data.dll
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\bin\Release\Data.pdb
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\bin\Release\Common.dll
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\bin\Release\Common.pdb
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\obj\Release\Data.csprojAssemblyReference.cache
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\obj\Release\Data.csproj.CopyComplete
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\obj\Release\Data.dll
+D:\Downloads\Sistemas transaccionales\Sistemas transaccionales\Data\obj\Release\Data.pdb
